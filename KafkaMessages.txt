@@ -1,0 +1,4 @@
+{id=1, name='some_name 1', age=24, course=BTech}
+{id=2, name='some_name 2', age=25, course=BTech}
+{id=3, name='some_name 3', age=26, course=BTech}
+{id=4, name='some_name 4', age=27, course=BTech}
